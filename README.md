@@ -1,4 +1,4 @@
-<h1 align="center">ljg.blog</h1>
+<h1 align="center">ljs.blog</h1>
 
 > ljs.blog 是 Vue3-admin-element的精简版本，去掉了完整版本中丰富的组件库。项目使用的是`Composition Api`、和`<script setup>`新语法糖风格编写。
 
